@@ -40,7 +40,7 @@
         <spring-security-ldap.version>5.3.2.RELEASE</spring-security-ldap.version>
         <unboundid.version>5.0.1</unboundid.version>
         <spring-amqp.version>2.2.7.RELEASE</spring-amqp.version>
-        <hibernate-validator.version>6.0.18.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.20.Final</hibernate-validator.version>
     </properties>
 
     <dependencyManagement>
